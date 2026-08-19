@@ -37,19 +37,15 @@ Evt. Observers/ Gæster:
 
 
 #### 2. Temaer for dagens møde
-- 2.1 
-- 2.2 
-- 2.3 
-- 2.4 
-
+- 2.1  Etablering af styregruppe. (beslutningsforslag kommer)
+- 2.2  Dialog om afgrænsning af produktkernen og forvaltning af plugins (datakilder, templates)
+- 2.3 Informationsmøde i efteråret. 
   
 
 #### 3. Eventuelt
 - 3.1 General Housekeeping
 - 3.2 Input til styregruppen
 - 3.3 Evt og kik til næste møde
-
-
   ---
 
 
