@@ -14,11 +14,12 @@
 **Sted**: Virtuel
 
 #### Deltagere:
-- [ ] Dennis Borup Jacobsen
-- [ ] Robert Voje
-- [ ] Søren Greising Tølbøll
+- [ ] Mads Agerbo Knude
+- [ ] Mads Lykke
+- [ ] Lars Kjær Lauridsen
+- [ ] Frederik Deth Hesselholt
+- [ ] Michael Walbum
 - [ ] Agnete Moos (Produkt Owner)
-- [ ] Sofie Søndergaard (produktkoordinator)
 
 
 #### Afbud:
