@@ -37,9 +37,10 @@ Evt. Observers/ Gæster:
 
 
 #### 2. Temaer for dagens møde
-- 2.1  Etablering af styregruppe. (beslutningsforslag kommer)
-- 2.2  Dialog om afgrænsning af produktkernen og forvaltning af plugins (datakilder, templates)
-- 2.3 Informationsmøde i efteråret. 
+- 2.1 Introduktion til produktforvaltningsrepo på Github og beslutningslog (Agnete)
+- 2.2  Etablering af styregruppe. (beslutningsforslag kommer) (Agnete)
+- 2.3  Dialog om afgrænsning af produktkernen og forvaltning af plugins (datakilder, templates) (Agnete)
+- 2.4 Informationsmøde i efteråret (Agnete)
   
 
 #### 3. Eventuelt
