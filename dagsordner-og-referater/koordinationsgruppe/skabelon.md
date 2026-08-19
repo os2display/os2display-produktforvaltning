@@ -7,7 +7,7 @@
 
 ## Mødefakta
   
-**Mødenavn**: OS2Display koordinationsgruppemøde  (Afholdes 1. mandag i måneden)
+**Mødenavn**: OS2Display koordinationsgruppemøde  (Afholdes sidste tirsdag i måneden fra 13-14)
 
 **Tid**: dd.mm.yyy  kl. Start tid - Slut tid  
 
