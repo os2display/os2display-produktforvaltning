@@ -27,7 +27,6 @@
 
 #### Faciliteret af:
 - [] Agnete Moos (Mødeleder)  
-- [] Sofie Søndergaard (Referent)  
   
 Evt. Observers/ Gæster: 
  
