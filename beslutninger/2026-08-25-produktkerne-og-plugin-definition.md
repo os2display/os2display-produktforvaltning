@@ -24,8 +24,8 @@ Som eksempel på punkt 3 vil ITK ikke kunne fejlsøge og udvikle på Københavns
 
 Omvendt vil Bellcom ikke kunne fejlsøge og udvikle på Aarhus' eventdatabase-integration, da det kræver adgang og viden om et internt Aarhus-system.
 
-## Installations- og opgraderingspakke
-I forbindelse med OS2Display version 3 er der udviklet en installationspakke som kan bruges af både driftsleverandører samt kommuner, der ønsker at hjemtage produktet til lokal drift. 
+## Installations- og opgraderingsværktøj
+I forbindelse med OS2Display version 3 er der udviklet et værktøj til installation, opdatering og systemadministration. Det kan anvendes af driftsleverandører samt kommuner, der ønsker at hjemtage produktet til lokal drift. 
 
 Installationspakken bør betragtes som en kernekomponent, da produktet ikke kan udbredes, hvis det ikke kan installeres. 
 
