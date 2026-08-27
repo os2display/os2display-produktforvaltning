@@ -41,7 +41,10 @@ Evt. Observers/ Gæster:
 - 2.2  Etablering af styregruppe. (beslutningsforslag kommer) (Agnete)
 - 2.3  Dialog om afgrænsning af produktkernen og forvaltning af plugins (datakilder, templates) (Agnete)
 - 2.4 Informationsmøde i efteråret (Agnete)
+
   Datoforslag - en eftermiddag i uge 43 og 44
+
+  
   Dagsordenforslag:
   - Status fra produktforvaltning og arbejdsgrupper
   - Status på OS2BorgerPC version 3 og fordelene ved den
