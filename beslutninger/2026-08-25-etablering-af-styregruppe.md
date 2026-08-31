@@ -37,4 +37,5 @@ De væsentligste risici i forbindelse med etablering af en styregruppe er :
 
 ## Yderligere information:
 
+- Se udkast til invitation til styregruppen: [Invitation til styregruppe](../dokumenter/invitation-til-styregruppe.md)
 - Beslutningen fremlægges til ratificering på koordinationsgruppe mødet 01.09.2026
