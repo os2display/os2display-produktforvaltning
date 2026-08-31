@@ -1,4 +1,4 @@
-# [SDR]Der skal etableres en styregruppe for OS2Display
+# [SDR]Der skal etableres en styregruppe for OS2display
 
 - **Dato**: 2026-08-25
 - **Status**: Udkast
@@ -7,7 +7,7 @@
 
 ## Kontekst/ Årsag
 
-Der er behov for at etablere en styregruppe for OS2Display for at sikre produktets økonomi og fastlægge en strategisk retning for produktet. 
+Der er behov for at etablere en styregruppe for OS2display for at sikre produktets økonomi og fastlægge en strategisk retning for produktet. 
 
 Idet koordinationsgruppens primære opgave er at styre vedligehold, videreudvikling, sikkerhed og skalerbarhed af løsningen, er der behov for en styregruppe til at tage sig af de mere strategiske udfordringer ved at drive fælleskommunal open-source udvikling.
 

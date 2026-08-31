@@ -1,1 +1,1 @@
-Beslutninger og beslutningsudkast for OS2Display koordinationsgruppen
+Beslutninger og beslutningsudkast for OS2display koordinationsgruppen

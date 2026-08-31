@@ -2,7 +2,7 @@ Kære OS2display anvendere
 
 *Du modtager denne email fordi din kommune er tilsluttet OS2display produktfællesskabet og du er registreret som kontaktperson.*
 
-OS2Display produktfællesskabet står overfor en spændende milepæl i det fælles arbejde med at udvikle og produktmodne OS2display. Vores løsning er nu så moden, at det er klar til at blive bredt ud til en større anvenderskare. Dette er en afgørende mulighed for at skalere vores indsats, øge udbredelsen og sikre genbrugelighed på tværs af organisationer.
+OS2display produktfællesskabet står overfor en spændende milepæl i det fælles arbejde med at udvikle og produktmodne OS2display. Vores løsning er nu så moden, at det er klar til at blive bredt ud til en større anvenderskare. Dette er en afgørende mulighed for at skalere vores indsats, øge udbredelsen og sikre genbrugelighed på tværs af organisationer.
 
 Næste skridt er nu at etablere en styregruppe, som skal være med til at lede den videre udvikling og udbredelse. Styregruppen vil bidrage med strategisk og praktisk opbakning og hjælpe med at sikre, at ressourcer og økonomi er på plads, så vi kan realisere potentialet i produktet.
 

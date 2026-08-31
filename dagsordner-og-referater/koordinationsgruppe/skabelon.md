@@ -1,5 +1,5 @@
 ## Dagsorden og referat
-# OS2Display koordinationsgruppemøde dd.mm.yyyy
+# OS2display koordinationsgruppemøde dd.mm.yyyy
 
 **Status**
 - [ ] Referat klar til godkendelse
@@ -7,7 +7,7 @@
 
 ## Mødefakta
   
-**Mødenavn**: OS2Display koordinationsgruppemøde  (Afholdes sidste tirsdag i måneden fra 13-14)
+**Mødenavn**: OS2display koordinationsgruppemøde  (Afholdes sidste tirsdag i måneden fra 13-14)
 
 **Tid**: dd.mm.yyy  kl. Start tid - Slut tid  
 

@@ -1,4 +1,4 @@
-# [SDR]Definition af OS2Display produktkernen og plugin-system
+# [SDR]Definition af OS2display produktkernen og plugin-system
 
 - **Dato**: 2026-08-25
 - **Status**: Udkast
@@ -10,11 +10,11 @@ Produktforvaltningen ønsker en afgrænsning af hvilke dele af kodebasen som fæ
 
 Hidtil har grundreglen været, at al kode i main-branch på os2display-api-service er at betragte som systemkerne, som skal vedligeholdes  af fællesskabet. Dvs. at når først en feature er inde i produktet, overgår den automatisk til at være et fælles anliggende, som skal holdes fejlfri og sikkerhedsopdateret af fællesskabet.
 
-Den grundregel har vi brug for at gradbøje. Der findes i OS2Display et plugin-system bestående af templates og datakilder. Plugins bruges ofte til at integrere med tredjepartssystemer, som kun er i brug hos én eller ganske få kommuner.
+Den grundregel har vi brug for at gradbøje. Der findes i OS2display et plugin-system bestående af templates og datakilder. Plugins bruges ofte til at integrere med tredjepartssystemer, som kun er i brug hos én eller ganske få kommuner.
 
 ### Grunde til forvaltningsmæssigt at skelne mellem kerne og plugins: 
 
-1. Plugin-systemet er stort og voksende. OS2Displays økonomi kan ikke følge med. Hvis plugins skal vedligeholdes af fællesskabet skal indtægterne til fællesskabet (produktvederlaget) hæves. 
+1. Plugin-systemet er stort og voksende. OS2displays økonomi kan ikke følge med. Hvis plugins skal vedligeholdes af fællesskabet skal indtægterne til fællesskabet (produktvederlaget) hæves. 
 
 2. Det er især de største kommuner der udvikler plugins til tredjepartssystemer. Det er ikke rimeligt, at de mindre kommuner skal betale for vedligeholdlse for de største kommuners sær-løsninger.
 
@@ -25,7 +25,7 @@ Som eksempel på punkt 3 vil ITK ikke kunne fejlsøge og udvikle på Københavns
 Omvendt vil Bellcom ikke kunne fejlsøge og udvikle på Aarhus' eventdatabase-integration, da det kræver adgang og viden om et internt Aarhus-system.
 
 ## Installations- og opgraderingsværktøj
-I forbindelse med OS2Display version 3 er der udviklet et værktøj til installation, opdatering og systemadministration. Det kan anvendes af driftsleverandører samt kommuner, der ønsker at hjemtage produktet til lokal drift. 
+I forbindelse med OS2display version 3 er der udviklet et værktøj til installation, opdatering og systemadministration. Det kan anvendes af driftsleverandører samt kommuner, der ønsker at hjemtage produktet til lokal drift. 
 
 Installationspakken bør betragtes som en kernekomponent, da produktet ikke kan udbredes, hvis det ikke kan installeres. 
 
@@ -33,7 +33,7 @@ Installationspakken bør betragtes som en kernekomponent, da produktet ikke kan 
 
 Produktforvaltningen vurderer, at der er behov for en strategisk beslutning der afgrænser fællesskabets ansvarsområde ifht. kerneprodukt og plugins, for at produktets vedligeholdelsesomkostninger kan holdes inden den givne økonomiske ramme.
 
-En klar definition af produktkernen vil i øvrigt lette forventningsafstemning mellem anvenderkommuner og produktforvaltning, og skabe klarhed omkring hvad der falder inden for en den kodevedligeholdelsesaftale, der på sigt skal inggås mellem en leverandør og OS2Display produktfællesskabet.
+En klar definition af produktkernen vil i øvrigt lette forventningsafstemning mellem anvenderkommuner og produktforvaltning, og skabe klarhed omkring hvad der falder inden for en den kodevedligeholdelsesaftale, der på sigt skal inggås mellem en leverandør og OS2display produktfællesskabet.
 
 ## Indstilling
 
@@ -59,6 +59,6 @@ En afgrænsning af kerneproduktet vil skulle følges op af ændrede processer i 
 
 - Crowd-funding. Produktforvaltningen skal være behjælpelig med at facilitere crowd-funding når anvenderkommuner sammen skal udvikle og vedligeholde et plugin.
 
-- OS2 fællesskabet skal i god tid varsle hvis der introduceres ændringer i  OS2Display-kernen, der påvirker plugin-laget. Det kan f.eks. være opdatering af React, Symfony eller lignende.
+- OS2 fællesskabet skal i god tid varsle hvis der introduceres ændringer i  OS2display-kernen, der påvirker plugin-laget. Det kan f.eks. være opdatering af React, Symfony eller lignende.
 
 - Hvis der er plugins, som efterlades uden vedligeholdelse, bør fællesskabet finansiere en "nedrivningspulje" til fjernelse af disse.

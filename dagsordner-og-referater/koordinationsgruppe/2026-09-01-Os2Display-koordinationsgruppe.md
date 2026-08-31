@@ -1,5 +1,5 @@
 ## Dagsorden og referat
-# OS2Display koordinationsgruppemøde 01.09.2026
+# OS2display koordinationsgruppemøde 01.09.2026
 
 **Status**
 - [ ] Referat klar til godkendelse
@@ -7,7 +7,7 @@
 
 ## Mødefakta
   
-**Mødenavn**: OS2Display koordinationsgruppemøde  (Afholdes sidste tirsdag i måneden fra 13-14)
+**Mødenavn**: OS2display koordinationsgruppemøde  (Afholdes sidste tirsdag i måneden fra 13-14)
 
 **Tid**: 01.09.2026  kl. 13 - 14  
 
@@ -48,8 +48,8 @@ Evt. Observers/ Gæster:
   Dagsordenforslag:
   - Status fra produktforvaltning og arbejdsgrupper
   - Status på OS2BorgerPC version 3 og fordelene ved den
-  - Hosted OS2Display løsning v. Bellcom
-  - BRND-integration - eksempel på custom udvikling til OS2Display (Bellcom)
+  - Hosted OS2display løsning v. Bellcom
+  - BRND-integration - eksempel på custom udvikling til OS2display (Bellcom)
   - Kun for medlemmer af produktfællesskabet – specificering og planlægning af M365 integration.
   
 
