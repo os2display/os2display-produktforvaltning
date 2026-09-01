@@ -1,3 +1,5 @@
+- **Status**: Udkast
+
 Kære OS2display-anvendere
 
 **Vi ønsker at invitere relevante repræsentanter fra kommunerne til at blive en del af en ny styregruppe for OS2display. Henvendelsen handler om at styrke det fælles produktarbejde, sikre en tydelig ledelse og skabe rum for strategiske beslutninger om udvikling, økonomi og udbredelse af løsningen.**
