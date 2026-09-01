@@ -39,7 +39,7 @@ Evt. Observers/ Gæster:
 #### 2. Temaer for dagens møde
 - 2.1 Introduktion til produktforvaltningsrepo på Github og beslutningslog (Agnete)
 
-- 2.2 Kort status på OS2Display version 3 (Mads K + Agnete)
+- 2.2 Kort status på OS2Display version 3 og overdragelsesprocessen(Mads K + Agnete)
 
 - 2.3  Etablering af styregruppe. 
       Beslutningsforslag: https://github.com/os2display/os2display-produktforvaltning/blob/main/beslutninger/2026-08-25-etablering-af-styregruppe.md (Agnete)
@@ -49,7 +49,7 @@ Evt. Observers/ Gæster:
 
 - 2.5 Crowdfunding af M365-integration - Udkast til medlemsbrev: 
       https://github.com/os2display/os2display-produktforvaltning/blob/main/nyhedsbreve/medlemmer/crowdfunding-af-M365-integration.md
-      
+
 - 2.6 Informationsmøde i efteråret (Agnete)
 
   Datoforslag - en eftermiddag i uge 43 og 44
