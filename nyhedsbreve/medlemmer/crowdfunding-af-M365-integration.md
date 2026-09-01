@@ -20,15 +20,15 @@ Den manglende integration er en stopklods for at få nye kommuner ombord på pro
 ITK har givet et tilbud på en xxxx
 
 Udgiften ville kunne fordeles på følgende måde hvis alle vil være med.
-Ballerup Kommune: xxxx
-Køge Kommune; xxxx
-Næstved Kommune: xxxx
-Sønderborg Kommune: xxxx
-Vejle Kommune: xxxxc
+- Ballerup Kommune: xxxx
+- Køge Kommune; xxxx
+- Næstved Kommune: xxxx
+- Sønderborg Kommune: xxxx
+- Vejle Kommune: xxxxx
 
 
-(aarhus er ikke med da de har brug for en indirekte integration med med yderligere funktionalitet
-København er ikke med da de ikke bruger Outlook til bookingformål)
+Aarhus er ikke med, da de har brug for en indirekte integration med med yderligere funktionalitet.
+København er ikke med, da de ikke bruger Outlook til bookingformål
 
 ## Alternativer
 XXXX opfordrer kraftigt til at vi skaffer midlerne til open source udvikling af en integrationsløsning findes.
