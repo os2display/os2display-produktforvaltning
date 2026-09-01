@@ -38,8 +38,10 @@ Evt. Observers/ Gæster:
 
 #### 2. Temaer for dagens møde
 - 2.1 Introduktion til produktforvaltningsrepo på Github og beslutningslog (Agnete)
-- 2.2  Etablering af styregruppe. (beslutningsforslag kommer) (Agnete)
+- 2.2  Etablering af styregruppe. 
+      Beslutningsforslag: https://github.com/os2display/os2display-produktforvaltning/blob/main/beslutninger/2026-08-25-etablering-af-styregruppe.md (Agnete)
 - 2.3  Dialog om afgrænsning af produktkernen og forvaltning af plugins (datakilder, templates) (Agnete)
+      Udkast til styregruppebeslutningsforslag: https://github.com/os2display/os2display-produktforvaltning/blob/main/beslutninger/2026-08-25-produktkerne-og-plugin-definition.md
 - 2.4 Informationsmøde i efteråret (Agnete)
 
   Datoforslag - en eftermiddag i uge 43 og 44
