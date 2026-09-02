@@ -2,7 +2,7 @@
 # OS2display koordinationsgruppemøde 01.09.2026
 
 **Status**
-- [ x ] Referat klar til godkendelse
+- [x] Referat klar til godkendelse
 - [ ] Referat godkendt
 
 ## Mødefakta
@@ -14,19 +14,19 @@
 **Sted**: Virtuel
 
 #### Deltagere:
-- [ x ] Mads Agerbo Knude
+- [x] Mads Agerbo Knude
 - [ ] Mads Lykke
-- [ x ] Lars Kjær Lauridsen
+- [x] Lars Kjær Lauridsen
 - [ ] Frederik Deth Hesselholt
-- [ x ] Michael Walbum
-- [ x ] Agnete Moos (Produkt Owner)
+- [x] Michael Walbum
+- [x] Agnete Moos (Produkt Owner)
 
 
 #### Afbud:
 - [ ] xxx 
 
 #### Faciliteret af:
-- [] Agnete Moos (Mødeleder)  
+- [x] Agnete Moos (Mødeleder)  
   
 Evt. Observers/ Gæster: 
 Anna-Lis Søndergaard Berg
