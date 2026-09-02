@@ -36,5 +36,4 @@ Der igangsættes følgende handlinger:
 3. Hvis der ikke opnås tilstrækkelig deltagelse i finansiering, kan beslutningen blive udskudt.
 
 ## Yderligere information
-- Medlemsbrev: [Crowdfunding af M365 integration](https://github.com/os2display/os2display-produktforvaltning/blob/main/nyhedsbreve/medlemmer/crowdfunding-af-M365-integration.md)
 - Referat og ramme for informationsmøde: [OS2display koordinationsgruppemøde 01.09.2026](https://github.com/os2display/os2display-produktforvaltning/blob/main/dagsordner-og-referater/koordinationsgruppe/2026-09-01-Os2Display-koordinationsgruppe.md)
