@@ -10,10 +10,9 @@ OS2display har valgt at understøtte versionsstyring, transparens og sporbarhed 
 Dette betyder i praksis følgende:
 
 Der etableres et forvaltningsrepository i produktets Git-organisation til håndtering af:
-- Diskussion og dokumentation af arkitekturprincipper, produktstrategi og samarbejdsmodel (issue-baseret beslutningslog)
-- Indberetning, evaluering og prioritering af ændringsønsker (issue-baseret backlog)
-- Leveranceledelse og statusrapportering
-- Intern opgavestyring og opfølgning i produktsamarbejdet
-- Årshjul, dagsordner og mødereferater
+- Dagsordner og mødereferater for koordinationsgruppe
+- Beslutningslog for koordinationsgruppe
 - Strategi, visioner, roadmaps og udviklingsplaner
-- Godkendte versioner af ovenstående gøres offentligt tilgængelige på produktets dokumentationssite
+- Intern opgavestyring og opfølgning i produktsamarbejdet
+
+Der linkes fra produktets dokumentationssite til produktforvaltningsrepo
