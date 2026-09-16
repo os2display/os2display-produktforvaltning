@@ -39,7 +39,7 @@ Webinaret er for kommuner, regioner og andre offentlige myndigheder, der anvende
 
 ## Tidspunkt
 
-22. oktober 2026 kl. 14:00-15:30
+Torsdag den 22. oktober 2026 kl. 14:00-15:30
 
 ## Sted
 
