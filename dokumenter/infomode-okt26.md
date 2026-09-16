@@ -19,14 +19,13 @@ Den samlede struktur giver ét indgangspunkt for udvikling, hvilket gør det enk
 
 Bellcom, der er godkendt leverandør af OS2Display, giver en kort præsentation af deres hostingløsning og støtte til systemet. De vil redegøre for deres tilbud, herunder priser og serviceydelser, samt hvordan de kan bistå kommunerne med drift og implementering af OS2Display.
 
-Der vil være mulighed for at stille spørgsmål til leverandøren efter præsentationen.
-
 **Custom udvikling i OS2Display – BRND-integration som eksempel**
 
 Bellcom giver et konkret eksempel på, hvordan de kan levere skræddersyet udvikling til OS2Display gennem integrationen med BRND, et udbredt bookingsystem inden for kultur- og fritidsområdet.
 
-Integrationen, som allerede er i brug i kommuner som København, Odense og Sønderborg, trækker data via BRNDs REST API til at vise aktivitetsoversigter for idrætsanlæg direkte på OS2Display-skærme. Bellcom vil demonstrere den udviklede løsning, der muliggør denne visning, og redegøre for, hvordan lignende tilpasninger kan implementeres i andre kommuner efter behov.
-Kun for medlemmer af produktfællesskabet – specificering og planlægning af M365 integration.
+Integrationen, der er i brug i København og Sønderborg, trækker data via BRNDs REST API til at vise aktivitetsoversigter for idrætsanlæg direkte på OS2Display-skærme. Bellcom vil demonstrere den udviklede løsning, der muliggør denne visning, og redegøre for, hvordan lignende tilpasninger kan implementeres i andre kommuner efter behov.
+
+**Kun for medlemmer af produktfællesskabet – specificering og planlægning af M365 integration**
 
 Hvem kan deltage?
 Informationsmødet er for kommuner, regioner og offentlige myndigheder, der er anvender interesseret i OS2Display.
