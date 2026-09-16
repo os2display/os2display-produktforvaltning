@@ -3,7 +3,7 @@
 **Stærkere styring, samlet kode og skræddersyede integrationer**
 
 OS2Display inviterer til webinar for alle der har lyst til at styrke kendskabet til OS2Display. 
-Det er gratis at deltage for alle myndigheder - uanset om I er medlem af OS2Display produktfællesskabet.
+Det er gratis at deltage for alle myndigheder - uanset om I er medlem af OS2Display.
 
 ## Program
 
