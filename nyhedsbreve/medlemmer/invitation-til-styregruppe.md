@@ -12,7 +12,7 @@ Næste skridt er nu at etablere en styregruppe, som skal være med til at lede d
 
 Vi opfordrer derfor alle interesserede medlemmer til at melde sig som deltagere i styregruppen. Det er en unik chance for at påvirke udviklingen af OS2display og være med til at skabe større værdi for endnu flere brugere.
 
-**Hvis du eller din chef er interesseret, skal I blot sende en mail til OS2display@os2.eu senest mandag den 21. september, hvor I skriver navn, rolle og kontaktoplysninger på den person, I ønsker at opstille som kandidat til posten.**
+**Hvis du eller din chef er interesseret, skal I blot sende en mail til OS2display@os2.eu senest mandag den 5. oktober, hvor I skriver navn, rolle og kontaktoplysninger på den person, I ønsker at opstille som kandidat til posten.**
 
 Koordinationsgruppen vil derefter vurdere, hvorvidt alle opstillede kandidater automatisk kommer til at indgå i styregruppen, eller om der er behov for en formel afstemning i produktfællesskabet.
 
