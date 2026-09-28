@@ -23,7 +23,7 @@
 
 
 #### Afbud:
-- [ ] xxx
+- [ ] Lars Kjær Lauridsen
 
 #### Faciliteret af:
 - [ ] Agnete Moos (Mødeleder)  
