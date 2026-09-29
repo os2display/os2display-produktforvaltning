@@ -43,6 +43,7 @@ Evt. Observers/ Gæster:
   - Principper for produktforvaltning og afgrænsning af produktkernen er i proces.
 
 - 2.2 Informationsmøde den 22. oktober: status på program og forberedelser (Agnete)
+- Hvem af os deltager på mødet og hvad er vores roller?
 
 - 2.3 Status på etablering af styregruppe (Agnete)
   - Deadline er den 5. oktober.
