@@ -87,6 +87,7 @@ https://github.com/os2display/os2display-produktforvaltning/blob/main/beslutning
 
 >
 > - 2.2 Informationsmøde den 22. oktober: status på program og forberedelser (Agnete)
+
 Der er pt. 18 tilmeldte til informationsmødet, og arbejdsdelingen er aftalt:
 - Agnete tager de første punkter om produktforvaltning og overdragelsesproces.
 - Bellcom holder en produktpræsentation.
