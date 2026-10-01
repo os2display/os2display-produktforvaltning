@@ -1,7 +1,7 @@
 # [SDR]Der skal etableres en styregruppe for OS2display
 
 - **Dato**: 2026-08-25
-- **Status**: Udkast
+- **Status**: Vedtaget af koordinationsgruppen på mødet den 29/9-2026
 - **Beslutningstagere**: Koordinationsgruppen
 - **Beslutningstype**: Strategisk
 

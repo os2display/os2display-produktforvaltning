@@ -1,7 +1,7 @@
 # [ODR]Undersøgelse af direkte integration mellem OS2Display og Microsoft Graph
 
 - **Dato**: 2026-09-02
-- **Status**: Udkast
+- **Status**: Vedtaget af koordinationsgruppen på mødet den 29/9-2026
 - **Beslutningstagere**: Koordinationsgruppen
 - **Beslutningstype**: Operationel
 
