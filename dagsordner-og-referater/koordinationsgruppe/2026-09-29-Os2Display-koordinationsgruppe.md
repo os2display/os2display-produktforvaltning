@@ -67,7 +67,7 @@ Evt. Observers/ Gæster:
 > - 1.2 Godkendelse af referat og dagsorden
 Referat fra mødet den 1. september er godkendt.
 
-Ballerup, Aarhus, Næstved og Køvenhavn har tilkendegivet at støtte beslutning om oprettelse af styregruoppe, der hermed er vedtaget.
+Ballerup, Aarhus, Næstved og København har tilkendegivet at støtte beslutning om oprettelse af styregruoppe, der hermed er vedtaget.
 Beslutningsforslag: https://github.com/os2display/os2display-produktforvaltning/blob/main/beslutninger/2026-08-25-etablering-af-styregruppe.md 
 
 Ballerup, Aaarhus, Næstved har tilkendegivet at støtte beslutning om undersøgelse af mulighed for Microsoft Graph integration der hermed er vedtaget.
