@@ -2,17 +2,17 @@
 marp: true
 ---
 
-# Your slide deck
+# Ny organisering i OS2display
 
-Start writing!
+Ny produktforvalter: Agnete Moos
+Ansat i Sønderborg Kommune ansvar for 60 infoskærme. Startet på biblioteket, kører nu i sportshaller og vsion om yderligere udbredelse til f. eks. folkeskoler og daginstitioner.
 
-Velkommen til 
-
-Jeg hedder Agnete Moos og er ansat i Sønderborg kommune. 
+Jeg er udlånt 8 timer om ugen til at varetage opgaven som OS2display produktkoordinator.
+<!-- Note: Dette er talerenoten til dette slide -->
 
 ---
 
-## Second page
+## Os2display koordinationgruppen 
 
 Ujævnt møde - der er noget for leverandører, udviklere og teknikere.
 Så er der teknikere 
