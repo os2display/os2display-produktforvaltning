@@ -1,6 +1,10 @@
 ---
 marp: true
+paginate: true
 ---
+<!-- _class: cover -->
+<img class="os2-logo" src="../../OS2_logo_SVG.svg" alt="OS2" />
+<img class="power-mark" src="../../OS2-on-symbol-green.svg" alt="" aria-hidden="true" />
 # Velkommen
 <!-- Note: . Velkommen til første officielle OS2Display informationsmøde. Det er officielt fordi det er arrangeret af produktforvaltning og koordinationsgruppen, og så er det annonceret via OS2s nyhedsbrev og via OS2s hjemmeside. 
 Fordi det er det første møde har vi valgt at favne bredt. Det er både for medlemmer og andre interresserde. For dem der ikke kender produktet er der en produktpræsentation og for dem der er garvede brugere, leverandører eller udviklerre har vi også spændende punkter på programmet.  -->
@@ -38,14 +42,90 @@ Fordi det er det første møde har vi valgt at favne bredt. Det er både for med
 </div>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+:root {
+  --os2-green: #3a7f3b;
+  --os2-green-dark: #1b3c1c;
+  --os2-gray: #727272;
+  --os2-light-gray: #e3e3e3;
+}
+section {
+  background: #fff;
+  border-left: 10px solid var(--os2-green);
+  color: #231f20;
+  font-family: "Open Sans", "Noto Sans", sans-serif;
+  padding: 50px 70px 48px 78px;
+}
+h1, h2, h3 {
+  color: #231f20;
+  font-weight: 700;
+}
+h1 {
+  border-bottom: 3px solid var(--os2-green);
+  font-size: 1.35em;
+  padding-bottom: 0.18em;
+}
+h2, h3 {
+  color: var(--os2-green);
+}
+p, li {
+  line-height: 1.3;
+}
+li::marker {
+  color: var(--os2-green);
+}
+section::after {
+  color: var(--os2-gray);
+  font-size: 0.45em;
+}
+section.cover {
+  align-items: flex-start;
+  border: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 6% 8%;
+}
+.cover .os2-logo {
+  margin-bottom: 1.5em;
+  position: relative;
+  width: 230px;
+  z-index: 1;
+}
+.cover .power-mark {
+  bottom: -6%;
+  height: 88%;
+  opacity: 0.12;
+  position: absolute;
+  right: 3%;
+  width: auto;
+}
+.cover h1 {
+  border: 0;
+  color: var(--os2-green);
+  font-size: 2.5em;
+  position: relative;
+  z-index: 1;
+}
 .columns {
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 1em;
 }
-.columns > div:nth-child(2) {
-  background-color: #f2f2f2;
+.columns > div:first-child {
+  background-color: var(--os2-green);
+  color: #fff;
   padding: 1em;
+}
+.columns > div:first-child li::marker {
+  color: #fff;
+}
+.columns > div:nth-child(2) {
+  background-color: var(--os2-light-gray);
+  padding: 1em;
+}
+.columns > div:nth-child(2) h3 {
+  color: var(--os2-green-dark);
 }
 </style>
 
