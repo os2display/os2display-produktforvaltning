@@ -30,6 +30,60 @@ Fordi det er det første møde har vi valgt at favne bredt. Det er både for med
 
 </div>
 
+<!-- Note: Når man er medlem af produktet har   -->
+
+---
+
+# Organisering i OS2display
+
+Produktforvalter siden 1. jan 2026: Agnete Moos
+
+Ansat i Sønderborg Kommune ansvar for 60 infoskærme. 
+
+Udlånt 8 timer om ugen til at varetage opgaven som OS2display produktkoordinator.
+<!-- Note: I Sønderborg Kommune er OS2display startet på biblioteket, kører nu også ude i nogle sportshaller hvor der vises banebooking via en integration til BRND. Næste skridt i Sønderborg bliver at brede systemet ud til folkeskoler og daginstitioner.
+
+Det er første gang at OS2Display har en produktkoordinator der samtidig har driftsansvar for nogle skærme. Tidligere har jobbet været besat af sekretrariatsmedarbejde. De er dygtige men har ikke på samme måde hånden på kogepladen. Det tror jeg er sundt. -->
+
+---
+
+## Os2display koordinationgruppen 
+
+Ujævnt møde - der er noget for leverandører, udviklere og teknikere.
+Så er der teknikere 
+
+Version 3 :
+Tigerspring fremad i teknisk modenhed
+
+
+
+
+Installationspakke vedligeholdt af produktfællessakbet
+
+---
+
+# Medlemsfordele
+
+- Fælles og solidarisk finansiering af vedligeholdelse, sikkerhed og videreudvikling af produktet.
+
+- Indflydelse på produktets fremtid gennem fælles prioritering af udviklingsønsker og deltagelse i produktets styring.
+
+- Rådgivning og videndeling gennem produktforvaltningen og samarbejdet med andre kommuner.
+
+---
+
+# Version 3
+
+Liste med krydser
+
+---
+
+# Økonomi i en kommune
+
+# Bellcom produktleverandør
+
+Starter optagelse
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
 :root {
@@ -117,54 +171,3 @@ section.cover {
   color: var(--os2-green-dark);
 }
 </style>
-
-
-<!-- Note: Når man er medlem af produktet har   -->
-
----
-
-# Organisering i OS2display
-
-Produktforvalter siden 1. jan 2026: Agnete Moos
-
-Ansat i Sønderborg Kommune ansvar for 60 infoskærme. 
-
-Udlånt 8 timer om ugen til at varetage opgaven som OS2display produktkoordinator.
-<!-- Note: I Sønderborg Kommune er OS2display startet på biblioteket, kører nu også ude i nogle sportshaller hvor der vises banebooking via en integration til BRND. Næste skridt i Sønderborg bliver at brede systemet ud til folkeskoler og daginstitioner.
-
-Det er første gang at OS2Display har en produktkoordinator der samtidig har driftsansvar for nogle skærme. Tidligere har jobbet været besat af sekretrariatsmedarbejde. De er dygtige men har ikke på samme måde hånden på kogepladen. Det tror jeg er sundt. -->
-
----
-
-## Os2display koordinationgruppen 
-
-Ujævnt møde - der er noget for leverandører, udviklere og teknikere.
-Så er der teknikere 
-
-Version 3 :
-Tigerspring fremad i teknisk modenhed
-
-
-
-
-Installationspakke vedligeholdt af produktfællessakbet
-
----
-
-# Medlemsfordele
-
-- Fælles og solidarisk finansiering af vedligeholdelse, sikkerhed og videreudvikling af produktet.
-
-- Indflydelse på produktets fremtid gennem fælles prioritering af udviklingsønsker og deltagelse i produktets styring.
-
-- Rådgivning og videndeling gennem produktforvaltningen og samarbejdet med andre kommuner.
-
----
-
-# Version 3
-
-Liste med krydser
-
----
-
-# Økonomi i en kommune
