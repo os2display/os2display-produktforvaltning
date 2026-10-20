@@ -6,14 +6,13 @@ paginate: true
 <img class="os2-logo" src="../../OS2_logo_SVG.svg" alt="OS2" />
 <img class="power-mark" src="../../OS2-on-symbol-green.svg" alt="" aria-hidden="true" />
 # Velkommen
-<!-- Note: . Velkommen til første officielle OS2Display informationsmøde. Det er officielt fordi det er arrangeret af produktforvaltning og koordinationsgruppen, og så er det annonceret via OS2s nyhedsbrev og via OS2s hjemmeside. 
-Fordi det er det første møde har vi valgt at favne bredt. Det er både for medlemmer og andre interresserde. For dem der ikke kender produktet er der en produktpræsentation og for dem der er garvede brugere, leverandører eller udviklerre har vi også spændende punkter på programmet.  -->
+<!-- Note: Velkommen til OS2Display informationsmøde. Det koordinationsgruppen pg produktforvaltning der er værter i dag. Vi har sammensat et bredt program hvor der både er noget for nysgerrige der bare vil se hvad OS2Display er for noget og så er der også programpunkter for garvede brugere fra medlemskommunerne, leverandører og udviklrere. Jeg har sat tider på dagsordenen så man evt kan koble lidt fra de dele af mødet man er mindst interesseret i. Jeg vil som mødeleder holde styr på tiden.
 
-<!-- Note: (Vis dagsorden) Dagsorden for i dag ser sådan ud. Jeg har sendt link til dagsorden i mødechat. Der er tidpunkter på sådan så I kan tune ind og ud alt efter hvilke punkter der interesserer jer. Jeg vil være mødeleder og sørge for at tidsfristerne overholdes.  -->
+  -->
 
 ---
 
-# Status på OS2display produktfællesskabet
+# OS2display produktfællesskabet
 <div class="columns">
 <div>
 
@@ -26,6 +25,18 @@ Fordi det er det første møde har vi valgt at favne bredt. Det er både for med
 - Sønderborg Kommune
 - Vejle Kommune
 
+<!-- Note: 
+
+NHvad betyder det at en myndighed er tilsluttet produktfællesskabet?
+
+- Fælles og solidarisk finansiering af vedligeholdelse, sikkerhed og videreudvikling af produktet.
+
+- Indflydelse på produktets fremtid gennem fælles prioritering af udviklingsønsker og deltagelse i produktets styring.
+
+- Rådgivning og videndeling gennem produktforvaltningen og samarbejdet med andre kommuner.
+
+--->
+
 </div>
 
 </div>
@@ -36,14 +47,26 @@ Fordi det er det første møde har vi valgt at favne bredt. Det er både for med
 
 # Organisering i OS2display
 
-Produktforvalter siden 1. jan 2026: Agnete Moos
+### Koordinationsgruppe
 
+- Mads Lykke, Aarhus Kommune
+- Michael Wolf, Københavns Kommune
+- Lars Kjær Lauridsen, Næstved Kommune
+- Michael Walbum, Ballerup Kommune
+- Mads Agerbo Knude, Aarhus Kommune
+
+
+### Produktforvalter 
+Agnete Moos, Sønderborg Kommune (siden 1. januar 2026)
+
+<!-- Note:
 Ansat i Sønderborg Kommune ansvar for 60 infoskærme. 
 
 Udlånt 8 timer om ugen til at varetage opgaven som OS2display produktkoordinator.
-<!-- Note: I Sønderborg Kommune er OS2display startet på biblioteket, kører nu også ude i nogle sportshaller hvor der vises banebooking via en integration til BRND. Næste skridt i Sønderborg bliver at brede systemet ud til folkeskoler og daginstitioner.
 
-Det er første gang at OS2Display har en produktkoordinator der samtidig har driftsansvar for nogle skærme. Tidligere har jobbet været besat af sekretrariatsmedarbejde. De er dygtige men har ikke på samme måde hånden på kogepladen. Det tror jeg er sundt. -->
+ I Sønderborg Kommune er OS2display startet på biblioteket, kører nu også ude i nogle sportshaller hvor der vises banebooking via en integration til BRND. Næste skridt i Sønderborg bliver at brede systemet ud til folkeskoler og daginstitioner.
+
+Historien om dette arrangement.  -->
 
 ---
 
@@ -52,6 +75,15 @@ Det er første gang at OS2Display har en produktkoordinator der samtidig har dri
 Ujævnt møde - der er noget for leverandører, udviklere og teknikere.
 Så er der teknikere 
 
+
+
+---
+
+
+
+# Version 3
+
+Liste med krydser
 Version 3 :
 Tigerspring fremad i teknisk modenhed
 
@@ -59,22 +91,6 @@ Tigerspring fremad i teknisk modenhed
 
 
 Installationspakke vedligeholdt af produktfællessakbet
-
----
-
-# Medlemsfordele
-
-- Fælles og solidarisk finansiering af vedligeholdelse, sikkerhed og videreudvikling af produktet.
-
-- Indflydelse på produktets fremtid gennem fælles prioritering af udviklingsønsker og deltagelse i produktets styring.
-
-- Rådgivning og videndeling gennem produktforvaltningen og samarbejdet med andre kommuner.
-
----
-
-# Version 3
-
-Liste med krydser
 
 ---
 
@@ -151,9 +167,7 @@ section.cover {
   z-index: 1;
 }
 .columns {
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-  gap: 1em;
+  display: block;
 }
 .columns > div:first-child {
   background-color: var(--os2-green);
@@ -162,12 +176,5 @@ section.cover {
 }
 .columns > div:first-child li::marker {
   color: #fff;
-}
-.columns > div:nth-child(2) {
-  background-color: var(--os2-light-gray);
-  padding: 1em;
-}
-.columns > div:nth-child(2) h3 {
-  color: var(--os2-green-dark);
 }
 </style>
