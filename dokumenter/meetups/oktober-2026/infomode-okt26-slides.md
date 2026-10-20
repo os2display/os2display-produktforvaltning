@@ -103,6 +103,7 @@ Historien om dette arrangement.  -->
 
 
 <!-- Note:
+Svært at forholde sig til når man ikke forstår programkode. Jeg havde ikke sagt ja til rollen som produktforvalter, uden denne opgradering. I må stole på at vi kommuner der er tilsluttet OS2display nu i fællesskab ejer et produkt der er har taget et tigespring fremad i teknisk modenhed. 
 Der er en ny Større udgave  af OS2display meget tæt på udgivelse. Den kører allerede på flere skrme i Aarhus og udrulles i drift i Sønderborg. Der er mindre mangler, men de er småtingsafdelingen. 
 
 Version 3 er et tigerspring fremad i teknisk modenhed
