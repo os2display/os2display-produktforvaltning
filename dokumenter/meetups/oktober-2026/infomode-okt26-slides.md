@@ -24,21 +24,10 @@ Fordi det er det første møde har vi valgt at favne bredt. Det er både for med
 - Køge Kommune
 - Næstved Kommune
 - Sønderborg Kommune
-- Ballerup Kommune
+- Vejle Kommune
 
 </div>
-<div>
 
-### Medlemsfordele: 
-
-- Fælles finansiering af produktets vedligeholdelse og sikkerhed.
-
-- Indflydelse på produktets udvikling og styring.
-
-- Adgang til rådgivning og videndeling i produktfællesskabet.
-
-
-</div>
 </div>
 
 <style>
@@ -159,3 +148,23 @@ Tigerspring fremad i teknisk modenhed
 
 
 Installationspakke vedligeholdt af produktfællessakbet
+
+---
+
+# Medlemsfordele
+
+- Fælles og solidarisk finansiering af vedligeholdelse, sikkerhed og videreudvikling af produktet.
+
+- Indflydelse på produktets fremtid gennem fælles prioritering af udviklingsønsker og deltagelse i produktets styring.
+
+- Rådgivning og videndeling gennem produktforvaltningen og samarbejdet med andre kommuner.
+
+---
+
+# Version 3
+
+Liste med krydser
+
+---
+
+# Økonomi i en kommune
