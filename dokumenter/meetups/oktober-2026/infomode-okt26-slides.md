@@ -10,8 +10,13 @@ header: '![OS2](../../OS2_logo_SVG.svg)'
 ### Produktdemonstration og planlagt M365 integration
 22. oktober 2026 kl. 14 - 15:30
 
-<!-- Note: Velkommen til OS2Display informationsmøde. Det koordinationsgruppen pg produktforvaltning der er værter i dag. Vi har sammensat et bredt program hvor der både er noget for nysgerrige der bare vil se hvad OS2Display er for noget og så er der også programpunkter for garvede brugere fra medlemskommunerne, leverandører og udviklrere. Jeg har sat tider på dagsordenen så man evt kan koble lidt fra de dele af mødet man er mindst interesseret i. Jeg vil som mødeleder holde styr på tiden.
+<!-- Note: Velkommen til OS2Display informationsmøde. Det koordinationsgruppen og produktforvaltning der er værter i dag. Vi har sammensat et bredt program hvor der både er noget for dem der er nysgerrige der bare vil se hvad OS2Display er for noget og så er der også programpunkter for garvede brugere fra leverandører og udviklrere. Jeg har sat tider på dagsordenen som vi vil prøve at overholde. Det betyder at man kan gå til og fra alt efter hvad man er interesseret i.
 
+Vi starter med at jeg fortæller om version 3 og fremtidsplanerne for produktet.
+
+Dernæst går Dennis fra Bellcom på med en produktdemonstation for dem der gerne vil se brugergrænseflkaden og hvordan man arbejder i systemet. Når Dennis viser frem vil jeg gerne have lov tiul at optage præcis den del, da vi kan bruge den som en video-guide til produktet.
+
+Efter det vil Mads demnosterer kalender-skabelonen der pt. kun virker i Aaarhus, men som en M365 dataintegration vil kunne udbrede til andre anvendere.
   -->
 
 ---
@@ -43,15 +48,14 @@ header: '![OS2](../../OS2_logo_SVG.svg)'
 
 <!-- Note: 
 
-NHvad betyder det at en myndighed er tilsluttet produktfællesskabet?
+Når kommuner og myndigheder tilslutter sig OS2Display betales en årligt produktvederlag. 
 
-- Fælles og solidarisk finansiering af vedligeholdelse, sikkerhed og videreudvikling af produktet.
+Det er via de midler vi finansiering af kodevedligehold og sikkerhed-patchning af systemet.  
 
-- Indflydelse på produktets fremtid gennem fælles prioritering af udviklingsønsker og deltagelse i produktets styring.
+Som medlem får man også muloighed for at deltage i arbejdsgrupperne og på den måde få direkte indflydelse på produktets styring og prioriteringer. Det er medlemskommunerne det ejer systemet og bestemmer over det. 
 
-- Rådgivning og videndeling gennem produktforvaltningen og samarbejdet med andre kommuner.
 
---->
+-->
 
 ---
 
@@ -59,24 +63,28 @@ NHvad betyder det at en myndighed er tilsluttet produktfællesskabet?
 
 ### Koordinationsgruppe
 
+- Mads Agerbo Knude, Aarhus Kommune
 - Mads Lykke, Aarhus Kommune
-- Michael Wolf, Københavns Kommune
+- Frederik Deth Hesselholt, Københavns Kommune
 - Lars Kjær Lauridsen, Næstved Kommune
 - Michael Walbum, Ballerup Kommune
-- Mads Agerbo Knude, Aarhus Kommune
+
 
 
 ### Produktforvalter 
 Agnete Moos, Sønderborg Kommune (siden 1. januar 2026)
 
 <!-- Note:
-Ansat i Sønderborg Kommune ansvar for 60 infoskærme. 
 
-Udlånt 8 timer om ugen til at varetage opgaven som OS2display produktkoordinator.
+Lige nu ser vores koordinationsgruppe sådan ud og vi mødes en gang om måneden.
 
- I Sønderborg Kommune er OS2display startet på biblioteket, kører nu også ude i nogle sportshaller hvor der vises banebooking via en integration til BRND. Næste skridt i Sønderborg bliver at brede systemet ud til folkeskoler og daginstitioner.
+Det her arrangement er et godt eksempel på hvordan gruppen arbejder:
+Michael Walbum fra Ballerup tager emnet med M365 integration op. Vi taler om det. Koordinationsgruppen beslutter at det skal undersøges nærmere og at en dialoog med medlemmerne kunne være en god ide. Agnete indhendet tilbud fra ITK og får indkaldr til webinar. Mads Knude tilbyder at han godt kan lave en demo med kalender-sliudes fra Aarhus. Og på den måde er vi så her i dag.
 
-Historien om dette arrangement.  -->
+Jeg er OS2display produktkoordinator og udlånt 8 timer om ugen til den opgave fra Sønderbvorg kommune.
+
+I sønderborg komune sidder jeg med mange andre opgaver - herunder ansvar for ca. 60 infoskærme - så jeg har selv hånden på kogepladen hvis der er nopget i systemet der ikke virker. 
+ -->
 
 ---
 
@@ -86,9 +94,11 @@ Historien om dette arrangement.  -->
 
 # OS2display version 3
 
-### Oprydning og teknisk kvalitetssikring - tre komponenter samles i en
+<div class="membership version-highlights">
+<div>
 
-### Installetion
+
+### Installation
 
 - Installtionspakke vedligeholdt af fællesskabet
 - interaktiv installationswizard til hurtigt demosite eller seriøs driftsinstalletion
@@ -100,24 +110,143 @@ Historien om dette arrangement.  -->
 - Enkel etablering af et udviklingsmiljø
 - Omfattende teknisk udvikler dokumentation 
 
+</div>
 
+<blockquote>
+
+Teknisk forenkling - tre komponenter samles i én
+
+</blockquote>
+
+</div>
 
 <!-- Note:
-Svært at forholde sig til når man ikke forstår programkode. Jeg havde ikke sagt ja til rollen som produktforvalter, uden denne opgradering. I må stole på at vi kommuner der er tilsluttet OS2display nu i fællesskab ejer et produkt der er har taget et tigespring fremad i teknisk modenhed. 
-Der er en ny Større udgave  af OS2display meget tæt på udgivelse. Den kører allerede på flere skrme i Aarhus og udrulles i drift i Sønderborg. Der er mindre mangler, men de er småtingsafdelingen. 
+Version 3 er først or fremmest en teknosk opgradering. OS2Display har ind til nu bestået af tre selvstændige serverkomponenter, der alle skulle installeres hver især på en server og så kommunikerer indbyrdes. Det er en komplceret stuktur, der har gjort drift og nyudvikling ret besværlig. 
 
-Version 3 er et tigerspring fremad i teknisk modenhed
+Nu er tre komponenter smeltyet sammen til en. Det giver os først og fremmest nogle konkrete fordele i forhold til installation, opdatering, systemadministration og feature udvikling.
 
-Vi sidder i Næstved og tænker at det kan vi ikke bruge til så meget. 
-Nedbringe omkostninger og gøre systemet tilgængeligt for flere leverandører. 
 
-Det er også grunden til at det nu giver mening at tale om M365 integration, arrangementsplakater fra Folkebibliotekernes CMS, TopDesk integration og hvad der ellers tales om. Nu er det faktisk muligt. Version 3 er den trædesten der bringer os derhen hvor vi kan gå i gang med alt det sjove.
+Version 3 er simpelthen et tigerspring fremad i teknisk modenhed. Nogle af jer der har en hostet løsning tænker måske at det kan være ret lige meget for jer.
+
+Men sagen er at det ind til nu ikke har givet mening at foreslå M365 integration, arrangementsplakater fra Folkebibliotekernes CMS, TopDesk integration og hvad der ellers har hørt nævnt. Fordi det her med integrationer har været maks besværligt. Nu er det faktisk tilgængeligt. Version 3 er den trædesten der bringer os derhen hvor vi kan gå i gang med alt det sjove.
+
+Jeg have håbet i dag at kunne sige at nu er version 3 releaset, men vi er ikke helt i mål. Der er stadig nopgle småting der mangler. Men det er meget lidt og det kører allerede nu på mange skærme i både Aarhus og Sønderbvorg og det kører godt.
 -->
 
 ---
+# Ny forvaltningsstruktur
 
-# Økonomi i en kommune
+<!-- Note: 
+Version 3 er et led i en større strategi for en formel overdragelse af OS2Display fra Aarhus Kommune til OS2. Ikke kun kildekoden, men også forvaltningen af produktet. 
 
+Det er ingen hemmelighed at Aarhus Kommune har været primus motor og hovedsponsor på OS2Display gennem alle årene. Systemet er født i Aarhus og udviklet af ITK. Det er udbredt til mange forvaltningsområder hvor det er stærkt forankret i arbejdsgange og opgaveløsning. Besøger man Dokk1 er der OS2 Display skærme overalt man kigger hen. 
+
+Men nu er vi nået dertil at OS2display er klar til at flytte hjemmefra. Det er ikke sådan at vi går og smækker med døren. Vi lytter stadig og vil også gerne hlåne vaskamaskinen og have mad fra køleskabet ind imellem. 
+
+Men vi flytter - og vi har en tidslinje for det her. I skal ikke sætte jer ind i alle detaljer. Men bemærk at version 3 er en hjørnesten i hele overdragelsesprocesn. 
+-->
+---
+# Ny styregruppe
+<!-- _class: steering-group -->
+
+<div class="person-profile">
+<img src="thor-dekov-buur.png" alt="Portræt af Thor Dekov Buur" />
+<div>
+
+### Thor Dekov Buur
+
+Kontorchef i Kultur og Fritidsforvaltningen i Københavns Kommune. Medlem af OS2's bestyrelse.
+
+</div>
+</div>
+
+<div class="person-profile">
+<img src="per-kjaer.png" alt="Portræt af Per Kjær" />
+<div>
+
+### Per Kjær
+
+Teamleder i Magistratsafdeling for Kultur og Borgerservice.
+
+</div>
+</div>
+
+<div class="person-profile">
+<img src="placeholder.jpeg" alt="Placeholder for deltager fra Sønderborg Kommune" />
+<div>
+
+### Navn kommer senere
+
+Sønderborg Kommune
+
+</div>
+</div>
+
+<!--
+Og hvor flytter vi så hen?
+
+Vi flytter ind sammen med de her gutter. Det er Os2Displays nye styregruppe og det er dem der fremadrettet skal træffe de strategiske beslutninger for produktet og sikre produktets økonomi.
+
+Det er så ny en gruppe at de ikke har haft lejlighed til at mødes endnu.
+Kandidaten fra Sønderborg har vi navnet på men vedkommende skal lige først tiltræde i en ny stilling før det bliver offentligt.
+
+En styregruppe på tre er lidt lille. Vi kunne gody bruge en eller to kandidater mere. Så hvis I sidder derude og tænker at vi godt kan give en hånd med, så vil vi gerne høre fra jer. Styregruppen mødes en gang om måneden og møderne har velfacilitetet med mødeledelse, referatskrivning osv. Det er overkommeligt at væøre med.
+
+-->
+---
+# Konsulenthjælp fra OS2 sekretariatet
+
+- Forvaltningsdokumentation
+- Kontrakter
+- Arbejdsgange
+
+<div class="person-profile">
+<img src="anna-lis-berg.webp" alt="Portræt af Anna-Lis Berg" />
+<div>
+
+### Anna-Lis Berg
+
+Anna-Lis er produktkonsulent og community builder i OS2's sekretariat i Aarhus. Hun arbejder blandt andet med organisatorisk onboarding af nye projekter og produkter.
+
+
+</div>
+</div>
+
+---
+
+
+
+
+
+
+
+
+# Produktøkonomi 
+
+<div class="pricing-layout">
+<div>
+
+Pris pr. skærm pr. år for hosted Os2display løsning:
+
+Ved 10 skærme: 8.770 kr.
+
+Ved 60 skærme: 1.460 kr.
+
+Ved 120 skærme: 730 kr.
+
+Ved 500 skærme: 175 kr.
+
+</div>
+<img src="produktokonomi.png" alt="Hosting hos Bellcom: 5.225 kr. pr. måned eller hjemtaget drift. OS2display produktvederlag: 25.000 kr. pr. år." />
+</div>
+
+ <!--
+ Nok om forvaltning. Inden Bellcom får prdet vil jeg  kort fortælle hvordan produktøkonomien omkring OS2Display ser ud i em mellemstor kommune som Sønderborg. 
+
+  I Sønderborg Kommune er OS2display startet på biblioteket, kører nu også ude i nogle sportshaller hvor der vises banebooking via en integration til BRND. Næste skridt i Sønderborg bliver at brede systemet ud til folkeskoler og daginstitioner.
+ 
+ -->
+ ---
 # Bellcom produktleverandør
 
 Starter optagelse
@@ -259,5 +388,49 @@ section.cover > p {
 }
 .membership > blockquote p {
   margin: 0;
+}
+.version-highlights {
+  grid-template-columns: 1.6fr 1fr;
+}
+.version-highlights > div {
+  font-size: 0.75em;
+}
+.person-profile {
+  align-items: center;
+  display: grid;
+  gap: 2em;
+  grid-template-columns: 200px 1fr;
+  margin-top: 1.5em;
+}
+.pricing-layout {
+  align-items: center;
+  display: grid;
+  gap: 1em;
+  grid-template-columns: 1.2fr 1fr;
+}
+.pricing-layout > img {
+  height: auto;
+  width: 100%;
+}
+.person-profile img {
+  border-radius: 50%;
+  height: 200px;
+  object-fit: cover;
+  width: 200px;
+}
+section.steering-group .person-profile {
+  grid-template-columns: 140px 1fr;
+  margin-top: 0.5em;
+}
+section.steering-group .person-profile img {
+  height: 140px;
+  width: 140px;
+}
+section.steering-group img[src="per-kjaer.png"] {
+  filter: grayscale(100%);
+}
+section.steering-group .person-profile h3,
+section.steering-group .person-profile p {
+  margin: 0.3em 0;
 }
 </style>
