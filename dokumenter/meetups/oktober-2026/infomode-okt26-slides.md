@@ -219,13 +219,6 @@ Anna-Lis er produktkonsulent og community builder i OS2's sekretariat i Aarhus. 
 
 ---
 
-
-
-
-
-
-
-
 # Produktøkonomi i en kommune
 
 <div class="pricing-layout">
@@ -259,7 +252,35 @@ Ved 500 skærme: 175 kr.
 
  
  -->
- 
+
+ ---
+ # Microsoft 365 integration
+
+ Estimat fra ITK: 100.000 - 150.000 kr.
+
+For at være med skal man binde sig til at bidrage med mindst. 20.000 kr. - man må gerne bidrage med mere.
+
+ Pengene opkræves kun, hvis vi kan skaffe mindt 100.000 kr. 
+
+
+
+ <!--
+ Nu har vi set de fine kalenderskabelon der ligger i OS2Display og hvardan de bliver brugt i Aarhus. Dem vil vi andre jo også gerne have mulighed for at bruge. 
+
+ Men det kan vi kun hvis vi får bygget en dataforbindelse hvor vi kan hente kalenderdata fra M365. 
+
+ Aarhus bliver på deres løsning og København i København har man ikke lov til at lave kalenderintegration i det hele taget pga. interne politikker så der er heller ikke interesserde. Så det er alle os andre i de mellemstore kommuner der må skaffe finaciering til det.
+
+ ITK har givet et estimat. Det relativt store spænd i estimatet dækker over at der kan være variation i hvordan en Microsoft Graph app er sat op i kommunerne og hvordan Outlook ressourcerne man gerne vil have vist, rent faktisk ser ud mht felter og lignende. 
+
+ Hvis vi forbereder os grundigt og får afdækket den usikkerhed afdækket inden vi går i gang, så skulle 100.000 nok kunne række.
+
+ For dem der bidrager til finaciering, da tager vi hensyn til jeres setuo i udviklingsprocessen så vi sørger for at den løsning der udvikles kan fungerer i praksis hos jer.  
+
+
+
+
+ -->
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
