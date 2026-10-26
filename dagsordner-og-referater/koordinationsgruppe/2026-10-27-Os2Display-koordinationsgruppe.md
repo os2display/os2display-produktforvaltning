@@ -37,9 +37,9 @@ Evt. Observers/ Gæster:
 
 
 #### 2. Temaer for dagens møde
-- 2.1 Evaluering af webinar. 
+- 2.1 Evaluering af webinar. (Agnete)
 - 2.2 Releasedato for OS2display version 3.0.0 (Mads K.)
-- 2.3 Crowd-funding af M365 integration. Hvad er næste skridt?
+- 2.3 Crowd-funding af M365 integration. Hvad er næste skridt? (Agnete)
 - 2.4 Nyhedsbrev - har vi materiale nok til et nyhedsbrev når 3.0.0 er releaset?
   - Indhold:
   - Release af 3.0.0 Hurra hurra
