@@ -2,7 +2,7 @@
 # OS2display koordinationsgruppemøde 27.10.2026
 
 **Status**
-- [ ] Referat klar til godkendelse
+- [x] Referat klar til godkendelse
 - [ ] Referat godkendt
 
 ## Mødefakta
