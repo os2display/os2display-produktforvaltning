@@ -7,29 +7,54 @@ header: '![OS2](../os2-presentation/OS2_logo_SVG.svg)'
 @import '../os2-presentation/os2.css';
 </style>
 
+#  OS2display workshop den 23 november 2026
+
+### Rammer for leverandørsamarbejde efter 1/1 2027
+
+**DELTAGERE**
+- ***Aarhus Kommune*** - Nuværende ejer af produktet
+- ***OS2display produktforvaltningen*** - fremtidig ejere af produktet
+- ***ITK-development v. Aarhus kommune*** - udviklings og vedligeholdelses leverandør
+---
 # Plan for dagen
 
-### Introduktion og rammesætning
-
-### Dagsorden
-
-### Referat
-
+- **10.00 - 10.15** : Introduktion og velkomst
+- **10.15 - 11.30** : Session 1: Samarbejdsprincipper & Nøglebegreber
+- **11.30 - 12.00** : ***Frokost på OS2's regning***
+- **12.00 - 13.30** : Session 2 : Workflow & arbejdsprincipper
+- **13.30 - 14.30** : Session 3 : Åben Teknisk workflow
+- **14.30 - 15.30** : Session 4 : Forvaltningsmodel og leverandøraftaler
+- **15.30 - 15:45** : ***Farvel og tak for idag***
+- 
 ---
-# Session 1
+# introduktion og velkomst
+
+### Formål med dagen
+Præsenter samarbejdsmodel, arbejdsrutiner og aftaleforhold efter formel overdragelse. 
+
+### Udbytte af dagen:
+En fælles forståelse af hvor der er tale om, *business as usual* , *Work in progress* eller nye krav & ændrede rutiner.
+
+### Format & efterbehandling
+
+- *Alle sessioner indledes med  formål, forventet udbytte og efterbehandling*
+- *Alle sessioner Optage- med henblik på efterbehandling og referatskrivning*
+---
+# Session 1: Samarbejdsprincipper & Nøglebegreber
+
+### Fokus: 
+1.  Rammer og hovedprincipper for samarbejde med OS2-fællesskabet
+2. Nøglebegreber i samarbejdsmodellen
 
 ### Formål: 
 ITKs nøglemedarbejdere får en forståelse af forløbet og hvad der forventes. OS2 får en forståelse af hvor der er diskrepans imellem leverandørens gældende praksis og den fremtidige samarbejdsmodel.
 
-### Udbytte: 
-Punktliste over diskrepanser
-
-### Efterbehandling: 
-Håndtere diskrepans
+### Udbytte & efterbehandling
+Der udarbejdes en punktliste over diskrepanser og forhold som vil kræve ekstra fokus i forbindelse med overgangen til den nye samarbejdsmodel.
 
 ---
 
-![Konsolideret roadmap](20112026_Os2display_konsolideret.svg)
+![samarbejdsfokus](samarbejdsfokus.svg)
 
 ---
 
@@ -61,15 +86,47 @@ Håndtere diskrepans
 - Alt samarbejde foregår i GitHub for at opretholde transparens i samarbejdet
 - Hele udviklingsforløbet samt review betales af Issue Lead
 - Release betales af OS2 fællesskabet
-
-
+  
 ---
 
 # Nøglebegreber i samarbejdsmodellen
+- Produktorganisering, Produkt fællesskab & Produktforvaltning
+- Contributor - Bidragsyder
+- Issues, Issue Lead & Assignee
+- Architecture, Core vs pluginn & Releases
 
-### Produktforvaltningen (xxx Anna-Lis kommer med forklaring)
+---
 
-### Produktets styrende organer (xxx Anna-Lis finder billede)
+# Produktorganisering
+![Os2's organisering](organisering.svg)
+
+---
+
+#  Produktfællesskabet
+
+- Produktfællesskabet er selv finansieret og selvstyrende
+- Medlemmer af Produktfællesskabet kan deltage i produktets koordinations og styregruppe
+- Styregruppen har fokuserer på Økonomi, strategi og organisering
+- Koordinationsgruppen har fokusere på vedligehold, videreudvikling og udbredelse.
+- Produktets styrendeorganer delegerer den daglige håndtering af fællesskabets aktiviteter til et produkt sekretariat, en produkt koordinator eller en Product owner
+
+[https://www.os2.eu/arbejdsgrupper](https://www.os2.eu/arbejdsgrupper)
+
+---
+
+# Produktforvaltningen
+
+### Produktforvaltning som begreb omfatter flg:
+- Administration, kommunikation, budget og regnskab 
+- Community building og Crowdfunding 
+- Vedligehold & videreudvikling af kildekoden 
+- Git organisering, automatisering og maintenance
+
+### Produktforvaltning i en OS2 kontekst  
+Produktets styrende organer udpeger en eller flere produktforvaltere til at styre produktets daglige aktiviteter.
+
+Produktforvaltnerne har til opgave at sikre at disse aktiviteter afvikles som anvist af produktets styrende organer og i henhold til OS2' governancemodel.
+
 
 ---
 
@@ -141,31 +198,32 @@ Pull request til os2display/os2display  og os2display/os2display-docker-server
 # Frokost
 ---
 
-# Session 2
+# Session 2:Workflow & arbejdsprincipper
 
+### Fokus
+- Samarbejdsmodel og arbejdsflow
+- Gitflow
+- Releaseproces
+- Contribution flow
+- Brugerinvolvering og brugertest
+  
 ### Formål
-
 Leverandørens nøglemedarbejdere får en forståelse af OS2displays tekniske forvaltningsmodel fremover.
 OS2display får leverandørens input til hvordan man operationaliserer den tekniske forvaltningsmodel.
 
-### Udbytte
-Konkret input til operationalisering
-
-### Efterbehandling
-Forvaltningsdokumentation konkretiseres yderligere. 
+### Udbytte og efterbehandling
+De konkrete input til operationalisering af den fremlagte smarbejdsmodel, dokumentere, så man efterfølgende kan anvende disse til en yderligere konkretisering af forvaltningsdokumentationen.
 
 ---
 # Samarbejdsmodel og arbejdsflow
-XXX Billede
+
+![Samarbejdsmodel](RoadmapB.svg)
 
 ---
 
 # Rammesætning af samarbejdet
 
-Hvad samarbejder OS2 med ITK om?
-
-# Aftaler OS2display
-xxx indsæt billede
+![Aftalekomplekset](aftaler.svg)
 
 ---
 
@@ -224,16 +282,17 @@ Det skal være en effektiv automatiseret løsning, der ikke kræver en masser h�
 
 ---
 
-# Session 3
+# Session 3: Åben Teknisk workshop
+
+### Fokus
+Identificerede steder i gitflowet og arbejdsmodellen, hvor der er behov for yderligere uddybybning af hvorledes disse implementeres teknisk.
 
 ### Formål
 Dybere teknisk afklaring af de daglige rutiner omkring vedligehold.
 
-### Udbytte
-Detaljeforslag til operationalisering af vedligeholdelsesforpligtelsen
+### Udbytte og efterbehandling
+Detaljeforslag til operationalisering af vedligeholdelsesforpligtelsen dokumenteres, således at de efterfølgende kan bruges til uddybning af forvaltningsdokumentation og Udarbejdelse af leverancebeskrivelse for vedligehold.
 
-### Efterbehandling
-Uddybning af forvaltningsdokumentation. Udarbejdelse af leverancebeskrivelse for vedligehold.
 
 ---
 
@@ -242,10 +301,55 @@ Elaborering om Gitflow, Release, Brugertest
 
 ---
 
-# Session 4
-# Rammesætning af fremtidig forvaltningsmodel
+# Session 4: rammesætning af den fremtidige forvaltningsmodel
+
+### Fokus
+Rammesætning af fremtidig forvaltningsmodel i forhold til 
 - Roller og ansvar
-- Beslutningsgange og forvaltningsprincipper
+- beslutningsgange og forvaltningsprincipper
+
+Rammer og mål for etablering af leverandør aftaler efter overtagelse.
+- kontrakt struktur og leverancemodel
+- afregningspraksis
+
+### Formål 
+Vi etablerer grundlaget for at påbegynde udarbejdelse af samarbejdsaftaler på både kort og lang sigt. 
+
+### Udbytte og efterbehandling
+Der etableres et fælles sprog og en gensidig forståelese at muligheder og begrænsninger i forbindelse med aftaleindgåelse, hvorefter OS2 kan påbegynder udfærdigelse af de aftaler der skal etableres i forbindelse med overdragelsen. 
+---
+
+# Roller og ansvar 1
+
+Liste over Rollerne -
+
+---
+
+# Roller og ansvar 2
+
+![Roller og ansvar](RoadmapB.svg)
+
+---
+# Beslutningsgange og forvaltningsprincipper
+
+![Forvaltningsprincip](nøglen.svg)
+
+---
+# Afregningspraksis
+
+---
+
+# Kontrakt struktur og leverancemodel 
+
+![Aftalekomplekset](aftaler.svg)
+
+---
+# Farvel og tak for idag 
+
+---
+
+![Konsolideret roadmap](20112026_Os2display_konsolideret.svg)
+
 
 
 
