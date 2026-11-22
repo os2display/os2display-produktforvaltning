@@ -14,7 +14,7 @@ header: '![OS2](../os2-presentation/OS2_logo_SVG.svg)'
 **DELTAGERE**
 - ***Aarhus Kommune*** - Nuværende ejer af produktet
 - ***OS2display produktforvaltningen*** - fremtidig ejere af produktet
-- ***ITK-development v. Aarhus kommune*** - udviklings og vedligeholdelses leverandør
+- ***ITK-development v. Aarhus kommune*** - udviklings- og vedligeholdelsesleverandør
 ---
 # Plan for dagen
 
@@ -24,7 +24,7 @@ header: '![OS2](../os2-presentation/OS2_logo_SVG.svg)'
 - **12.00 - 13.30** : Session 2 : Workflow & arbejdsprincipper
 - **13.30 - 14.30** : Session 3 : Åben Teknisk workflow
 - **14.30 - 15.30** : Session 4 : Forvaltningsmodel og leverandøraftaler
-- **15.30 - 15:45** : ***Farvel og tak for idag***
+- **15.30 - 15:45** : ***Farvel og tak for i dag***
 - 
 ---
 # introduktion og velkomst
@@ -38,12 +38,13 @@ En fælles forståelse af hvor der er tale om, *business as usual* , *Work in pr
 ### Format & efterbehandling
 
 - *Alle sessioner indledes med  formål, forventet udbytte og efterbehandling*
-- *Alle sessioner Optage- med henblik på efterbehandling og referatskrivning*
+- *Alle sessioner optages med henblik på efterbehandling og referatskrivning*
 ---
-# Session 1: Samarbejdsprincipper & Nøglebegreber
+
+## Session 1: Samarbejdsprincipper & Nøglebegreber
 
 ### Fokus: 
-1.  Rammer og hovedprincipper for samarbejde med OS2-fællesskabet
+1. Rammer og hovedprincipper for samarbejde med OS2-fællesskabet
 2. Nøglebegreber i samarbejdsmodellen
 
 ### Formål: 
@@ -69,7 +70,7 @@ Der udarbejdes en punktliste over diskrepanser og forhold som vil kræve ekstra 
 
 ---
 
-# Rammer og hovedprincipper for samarbejde med OS2-fællesskabet / del 2
+## Rammer og hovedprincipper for samarbejde med OS2-fællesskabet / del 2
 - Ingen arbejder på opgaver der ikke har et Issue Lead 
 - Sager uden Issue Lead er i backlog / on hold
 - Ingen starter på opgaver før de er assignet
@@ -80,8 +81,8 @@ Der udarbejdes en punktliste over diskrepanser og forhold som vil kræve ekstra 
 
 ---
 
-# Rammer og hovedprincipper for samarbejde med OS2-fællesskabet / del 3
-- PO assigner Issue Lead når issue vurderes comliant og tilstrækkelig beskrevet
+## Rammer og hovedprincipper for samarbejde med OS2-fællesskabet / del 3
+- PO assigner Issue Lead når issue vurderes compliant og tilstrækkelig beskrevet
 - Issue Lead og deres leverandør aftaler det videre forløb
 - Alt samarbejde foregår i GitHub for at opretholde transparens i samarbejdet
 - Hele udviklingsforløbet samt review betales af Issue Lead
@@ -93,22 +94,22 @@ Der udarbejdes en punktliste over diskrepanser og forhold som vil kræve ekstra 
 - Produktorganisering, Produkt fællesskab & Produktforvaltning
 - Contributor - Bidragsyder
 - Issues, Issue Lead & Assignee
-- Architecture, Core vs pluginn & Releases
+- Architecture, Core vs plugin & Releases
 
 ---
 
 # Produktorganisering
-![Os2's organisering](organisering.svg)
+![OS2's organisering](organisering.svg)
 
 ---
 
 #  Produktfællesskabet
 
-- Produktfællesskabet er selv finansieret og selvstyrende
-- Medlemmer af Produktfællesskabet kan deltage i produktets koordinations og styregruppe
-- Styregruppen har fokuserer på Økonomi, strategi og organisering
-- Koordinationsgruppen har fokusere på vedligehold, videreudvikling og udbredelse.
-- Produktets styrendeorganer delegerer den daglige håndtering af fællesskabets aktiviteter til et produkt sekretariat, en produkt koordinator eller en Product owner
+- Produktfællesskabet er selvfinansieret og selvstyrende
+- Medlemmer af Produktfællesskabet kan deltage i produktets koordinations- og styregruppe
+- Styregruppen har fokus på økonomi, strategi og organisering
+- Koordinationsgruppen har fokus på vedligehold, videreudvikling og udbredelse.
+- Produktets styrende organer delegerer den daglige håndtering af fællesskabets aktiviteter til et produktsekretariat, en produktkoordinator eller en Product owner
 
 [https://www.os2.eu/arbejdsgrupper](https://www.os2.eu/arbejdsgrupper)
 
@@ -125,7 +126,7 @@ Der udarbejdes en punktliste over diskrepanser og forhold som vil kræve ekstra 
 ### Produktforvaltning i en OS2 kontekst  
 Produktets styrende organer udpeger en eller flere produktforvaltere til at styre produktets daglige aktiviteter.
 
-Produktforvaltnerne har til opgave at sikre at disse aktiviteter afvikles som anvist af produktets styrende organer og i henhold til OS2' governancemodel.
+Produktforvalterne har til opgave at sikre at disse aktiviteter afvikles som anvist af produktets styrende organer og i henhold til OS2' governancemodel.
 
 
 ---
@@ -135,11 +136,11 @@ Produktforvaltnerne har til opgave at sikre at disse aktiviteter afvikles som an
 Mads K.s oplæg på webinar. SSO-vejledning fra Køge. Når Ballerup stiller sig forrest i en crowdfunding. Når Mads Lykke og Anders Gejl brugertester. Jeg vil arbejde på at alle medlemmer af OS2-fællesskabet bliver bidragsydere.
 
 ### Bidrag - det smalle begreb. 
-Pull request til os2display/os2display  og os2display/os2display-docker-server
+Pull request til os2display/os2display og os2display/os2display-docker-server
 
 ---
 
-### Hvem er bidragsydere lige nu?
+## Hvem er bidragsydere lige nu?
 - ITK i udviklingsleverandørrollen
 - Bellcom/København
 - Agnete/Sønderborg
@@ -151,7 +152,7 @@ Pull request til os2display/os2display  og os2display/os2display-docker-server
 
 ---
 
-# Eksempel Github Issue
+# Eksempel GitHub Issue
 
 ![Issue](issue.png)
 
@@ -160,7 +161,7 @@ Pull request til os2display/os2display  og os2display/os2display-docker-server
 # Issue Lead
 
 - Issue Lead kan være en myndighed eller OS2display-fællesskabet
-- Issue Lead assignes på en sag af PO når opgaven er tilstrækkelig beskrevet og vurderes compliant med produktstrategien
+- Issue Lead assigneres på en sag af PO når opgaven er tilstrækkelig beskrevet og vurderes compliant med produktstrategien
 - Issue Lead indgår aftale med leverandør og er ansvarlig for fremdrift i sagen
 - Issue Lead aftaler og betaler code review
 - Issue Lead brugertester releasekandidater, hvori der indgår bidrag fra dem
@@ -198,7 +199,7 @@ Pull request til os2display/os2display  og os2display/os2display-docker-server
 # Frokost
 ---
 
-# Session 2:Workflow & arbejdsprincipper
+# Session 2:Workflow & arbejdsprincipper / slide 1
 
 ### Fokus
 - Samarbejdsmodel og arbejdsflow
@@ -211,10 +212,15 @@ Pull request til os2display/os2display  og os2display/os2display-docker-server
 Leverandørens nøglemedarbejdere får en forståelse af OS2displays tekniske forvaltningsmodel fremover.
 OS2display får leverandørens input til hvordan man operationaliserer den tekniske forvaltningsmodel.
 
+---
+
+## Session 2:Workflow & arbejdsprincipper / slide 2
+
 ### Udbytte og efterbehandling
-De konkrete input til operationalisering af den fremlagte smarbejdsmodel, dokumentere, så man efterfølgende kan anvende disse til en yderligere konkretisering af forvaltningsdokumentationen.
+De konkrete input til operationalisering af den fremlagte samarbejdsmodel, dokumentere, så man efterfølgende kan anvende disse til en yderligere konkretisering af forvaltningsdokumentationen.
 
 ---
+
 # Samarbejdsmodel og arbejdsflow
 
 ![Samarbejdsmodel](RoadmapB.svg)
@@ -263,21 +269,18 @@ Vedligeholdelsesleverandøropgave betalt af OS2-fællesskabet
 ### Dag 14 (f. eks. 4. onsdag i hver måned)
 PO sender svar fra RC1-brugertest til vedligeholdelsesleverandør
 - **Positivt svar** fra brugertest = Release tagges på dag 14
-- **Ingen svar** fra brugertest = Hvad er bedst ???
+- **Intet svar** fra brugertest = Hvad er bedst ???
 - **Negativt svar** fra brugertest = Defekt feature fjernes fra develop og tilbage i feature-branch. Nyt code review påkrævet.
 - **Positivt svar + negativt svar** fra brugertests: Defekt feature fjernes fra develop og tilbage i feature-branch. RC2 tagges med features der havde positivt svar. RC2 sættes i drift på OS2 testserver. PO meddeler berørte Issue Leads om at de nu skal brugerteste RC2.
 
----
-
-### Contribution flow - Nøgletegning
 
 ---
 
 ### Brugerinvolvering og brugertest 
 
-OS2display har brug for en testserver. Den skal anvendes til til test af release kandidater.
+OS2display har brug for en testserver. Den skal anvendes til test af releasekandidater.
 
-Det skal være en effektiv automatiseret løsning, der ikke kræver en masser håndholdt arbejde. 
+Det skal være en effektiv automatiseret løsning, der ikke kræver en masse håndholdt arbejde.
 
 
 ---
@@ -285,13 +288,13 @@ Det skal være en effektiv automatiseret løsning, der ikke kræver en masser h�
 # Session 3: Åben Teknisk workshop
 
 ### Fokus
-Identificerede steder i gitflowet og arbejdsmodellen, hvor der er behov for yderligere uddybybning af hvorledes disse implementeres teknisk.
+Identificerede steder i gitflowet og arbejdsmodellen, hvor der er behov for yderligere uddybning af hvorledes disse implementeres teknisk.
 
 ### Formål
 Dybere teknisk afklaring af de daglige rutiner omkring vedligehold.
 
 ### Udbytte og efterbehandling
-Detaljeforslag til operationalisering af vedligeholdelsesforpligtelsen dokumenteres, således at de efterfølgende kan bruges til uddybning af forvaltningsdokumentation og Udarbejdelse af leverancebeskrivelse for vedligehold.
+Detaljeforslag til operationalisering af vedligeholdelsesforpligtelsen dokumenteres, således at de efterfølgende kan bruges til uddybning af forvaltningsdokumentation og udarbejdelse af leverancebeskrivelse for vedligehold.
 
 
 ---
@@ -301,40 +304,58 @@ Elaborering om Gitflow, Release, Brugertest
 
 ---
 
-# Session 4: rammesætning af den fremtidige forvaltningsmodel
+# Session 4: rammesætning af den fremtidige forvaltningsmodel / slide 1
 
 ### Fokus
 Rammesætning af fremtidig forvaltningsmodel i forhold til 
 - Roller og ansvar
 - beslutningsgange og forvaltningsprincipper
 
-Rammer og mål for etablering af leverandør aftaler efter overtagelse.
+Rammer og mål for etablering af leverandøraftaler efter overtagelse.
 - kontrakt struktur og leverancemodel
 - afregningspraksis
+
+---
+
+## Session 4: rammesætning af den fremtidige forvaltningsmodel / slide 2
 
 ### Formål 
 Vi etablerer grundlaget for at påbegynde udarbejdelse af samarbejdsaftaler på både kort og lang sigt. 
 
 ### Udbytte og efterbehandling
-Der etableres et fælles sprog og en gensidig forståelese at muligheder og begrænsninger i forbindelse med aftaleindgåelse, hvorefter OS2 kan påbegynder udfærdigelse af de aftaler der skal etableres i forbindelse med overdragelsen. 
----
-
-# Roller og ansvar 1
-
-Liste over Rollerne -
+Der etableres et fælles sprog og en gensidig forståelse af muligheder og begrænsninger i forbindelse med aftaleindgåelse, hvorefter OS2 kan påbegynde udfærdigelse af de aftaler der skal etableres i forbindelse med overdragelsen.
 
 ---
 
-# Roller og ansvar 2
+##  Roller og ansvar 1
+
+### Leverandørroller
+- Vedligehold
+- Udvikling
+- Drift
+
+### OS2 roller
+- Git maintainer
+
+### Anvenderroller
+- Issue Lead
+- PO / Produktkoordinator (SPOC)
+- Driftleverandør
+
+---
+
+##  Roller og ansvar 2
 
 ![Roller og ansvar](RoadmapB.svg)
 
 ---
+
 # Beslutningsgange og forvaltningsprincipper
 
 ![Forvaltningsprincip](nøglen.svg)
 
 ---
+
 # Afregningspraksis
 
 ---
@@ -344,7 +365,8 @@ Liste over Rollerne -
 ![Aftalekomplekset](aftaler.svg)
 
 ---
-# Farvel og tak for idag 
+
+# Farvel og tak for i dag
 
 ---
 
