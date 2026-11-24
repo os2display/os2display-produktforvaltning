@@ -2,8 +2,7 @@
 # OS2display koordinationsgruppemøde 24.11.2026
 
 **Status**
-- [ ] Referat klar til godkendelse
-- [ ] Referat godkendt
+Mødet blev ikke afholdt pga. for få fremmødte. Kun Frederik deltog og vi talte om løst og fast.
 
 ## Mødefakta
 
