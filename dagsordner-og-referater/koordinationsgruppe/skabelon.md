@@ -15,7 +15,6 @@
 
 #### Deltagere:
 - [ ] Mads Agerbo Knude
-- [ ] Mads Lykke
 - [ ] Lars Kjær Lauridsen
 - [ ] Frederik Deth Hesselholt
 - [ ] Michael Walbum
