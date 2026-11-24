@@ -3,7 +3,7 @@
 
 **Status**
 - [x] Referat klar til godkendelse
-- [ ] Referat godkendt
+- [ ] Referat godkendt. (Referat blev ikke godkendt på møde den 24/11 da det blev aflyst pga. for få fremmødte)
 
 ## Mødefakta
   
