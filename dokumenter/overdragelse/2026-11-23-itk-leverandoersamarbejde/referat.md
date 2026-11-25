@@ -146,7 +146,7 @@ For majors blev det vurderet, at release candidates fortsat giver mening.
 Sikkerhedsbrud skal indberettes, men ikke alle sikkerhedssager bør ligge åbent på GitHub. Ved alvorlige sikkerhedssager blev det foreslået at arbejde i et lukket rum eller en privat fork og først offentliggøre patch og dokumentation, når løsningen er klar. Processen er beskrevet i SECURITY.md.
 
 ### Code review, prisstruktur og afregning
-Code review er en betalingsydelse og skal beskrives tydeligt. Code review skal foregå på GitHub for at sikre transparens, og merge til develop er en del af leverancen. Milestone owner betaler for code review. Der skal laves en aftaleskabelon eller et issue template for code review.
+Code review er en betalingsydelse og skal beskrives tydeligt. Code review skal foregå på GitHub for at sikre transparens, og merge til develop er en del af leverancen. Milestone owner betaler for code review. Der skal laves en aftaleskabelon eller et issue template for code review. Der bør indarbejdes svarfrister og tidsfrister i aftalen.
 
 
 ### Crowdfunding-model for udvikling
@@ -157,6 +157,7 @@ Der blev drøftet en model, hvor OS2-projektet finansierer grundlæggende vedlig
 - Input fra mødet skal bruges til at operationalisere den tekniske forvaltningsmodel i dokumentation og aftaler.
 - Der skal udarbejdes et formelt overdragelsesdokument og en formel aftale om den juridiske kodeoverdragelse.
 - Der skal laves en midlertidig vedligeholdelsesaftale for den første periode.
+- Der sættes en månedlig pris der kan reguleres kvartalsvis ifht. faktisk timeforbrug
 - Den månedlige releaseproces skal beskrives mere konkret.
 - Der skal udarbejdes en aftaleskabelon eller et issue template for code review.
 - Produktforvaltningen skal afklare hvilke optioner vedligeholdelsesleverandøren skal kunne tilbyde.
