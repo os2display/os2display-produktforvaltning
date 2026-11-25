@@ -38,6 +38,7 @@ Evt. Observers/ Gæster:
 - 2.3 Tilbud fra Bellcom på automatiske arrangmentsplakater fra Folkebibliotekernes CMS (Agnete)
 - 2.4 Orienetering om styregruppe og opstart af arbejdet i styregruppen (Agnete)
 - 2.5 Status på M365-kalenderintegration og finansiering (Agnete)
+- 2.6 Fælles stand på Digitaliseringsmessen i Odense (pris 7000 kr.)
 
 #### 3. Eventuelt
 
